@@ -6,5 +6,5 @@ print(f"a soma é {soma}")
 #nova funcionalidade revert
 c = 10
 d = 2
-div = c / 2
+divisao = c / 2
 
